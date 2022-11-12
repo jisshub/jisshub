@@ -3,9 +3,9 @@
 
 ### ABOUT ME
 
-- 🔭 I’m currently working as **Software Developer**
-- 🌱 I’m currently learning **Data Science** and **Machine Learning**
-- 🚀 I want to transition my career into **Data Science**.
+- 🔭 I’m currently working as **Software Engineer**
+- 🌱 I’m currently learning **Full Stack Development**
+- 🚀 I want to transition my career as a **Full Stack Engineer**
 - 💻 Check my projects and repos [HERE.](https://github.com/jisshub?tab=repositories)
 
 ### LANGUAGES AND TOOLS
